@@ -1,5 +1,6 @@
 """
-TicTacToe written in Python 3.
+TicTacToe written in Python 3
+- written by Arham Jamal.
 """
 import random
 
